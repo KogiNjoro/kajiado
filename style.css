@@ -1,0 +1,21 @@
+.blue{
+    background-color: darkblue;
+    border: 6px darkblue;
+}
+.red{
+    background-color: red;
+    color: aliceblue;
+}
+.po{
+    float: right;
+}
+.lo{
+    float: left;
+}
+.ce{
+    display: flex;
+    justify-content: center;
+}
+.css{
+    text-align: center;
+}
