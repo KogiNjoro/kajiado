@@ -1,21 +1,31 @@
-.blue{
-    background-color: darkblue;
-    border: 6px darkblue;
+.blue{background-color: lightskyblue;
+    border-right: 6px  solid darkblue;
+    border-bottom: 6px solid darkblue;
+    border-left: 6px solid darkblue;
+    padding:1%;
+    width: 60%;
+    margin-left: 350px;
+    margin-right: 50px;
 }
 .red{
     background-color: red;
     color: aliceblue;
-}
-.po{
-    float: right;
-}
-.lo{
-    float: left;
+    width: 1101px;
+    border-bottom: 50%;
+
 }
 .ce{
     display: flex;
     justify-content: center;
+    
 }
 .css{
     text-align: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    gap: 200px;
+  background-color: lightgrey; 
 }
